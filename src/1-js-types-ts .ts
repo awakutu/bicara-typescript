@@ -3,7 +3,7 @@
 
 /********** Javascript Types ***********/
 let a;                  // undefined
-console.log(typeof(a));
+// console.log(typeof(a));
 
 let b:boolean;
 b = true;           // boolean
@@ -13,7 +13,7 @@ let c:number;
 c = 1;             // number
 // console.log(typeof(c));
 
-let d: string
+let d: string;
 d = "hello";        // string
 // console.log(typeof(d));
 

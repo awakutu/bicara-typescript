@@ -1,5 +1,7 @@
 // type inference(Implicit)
-let ti = 'hello';
+const ti = 'hello';
 
 // type annotation(Explicit)
-let ta: string = 'hello ts';
+let ta:string = 'hello ts';
+
+const tb:number= 3;
